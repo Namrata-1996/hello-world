@@ -1,2 +1,3 @@
-# hello-world
-My first repository on git hub
+$ git init
+$ git add .
+$ git commit -m "First commit"

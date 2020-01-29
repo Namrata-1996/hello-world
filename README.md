@@ -1,3 +1,2 @@
-$ git init
-$ git add .
-$ git commit -m "First commit"
+Hello World..
+This is  my first repository
